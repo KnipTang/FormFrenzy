@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fe54bee3ffc7121489d3da0f8fcbeb89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _UI_powerUpPrefab: {instanceID: 0}
+  - _ParticleEffect: {fileID: 8006147458140599623, guid: b6920319391b35840942974da189d387, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
